@@ -1,4 +1,8 @@
 ```{r}
+# install.packages("klaR")
+```
+
+```{r}
 #loading package and dataset
 library(klaR)
 data(iris)
