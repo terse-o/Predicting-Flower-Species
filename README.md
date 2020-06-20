@@ -10,7 +10,7 @@ Description: Used Naive Bayes Classifier to predict the species of flowers.
 NOTE:
 For the model of predicting flower species in-built dataset called 'iris' was used from RStudio.
 
-PPREDICTING FLOWER SPECIES:
+PREDICTING FLOWER SPECIES:
 
 -Load data
 
