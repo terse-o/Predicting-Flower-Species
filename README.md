@@ -1,16 +1,16 @@
 # Predicting-Flower-Species
-Used Naive Bayes Classifier to predict the species of flowers.
+**Used Naive Bayes Classifier to predict the species of flowers.**
 
-Language: R 
+**Language:** R 
 
-Editor: RStudio (v1.2.1335)
+**Editor:** RStudio (v1.2.1335)
 
-Description: Used Naive Bayes Classifier to predict the species of flowers.
+**Description:** Used Naive Bayes Classifier to predict the species of flowers.
 
-NOTE:
+**NOTE:**
 For the model of predicting flower species in-built dataset called 'iris' was used from RStudio.
 
-PREDICTING FLOWER SPECIES:
+**PREDICTING FLOWER SPECIES:**
 
 -Load data
 
